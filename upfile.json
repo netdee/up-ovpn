@@ -1,26 +1,24 @@
 {
    "files": [  
 
-{
+     {
          "name": "TH-DTAC",
          "url": "NGAbWwDGXwCZVw4e64L+HBfx25aK1JtDSLzSUWqtG1r+a/FjvgPzc59HTSmIMTppk4H3Y16uFvDznH0zog2ZiA=="
       },
-
-{
+      {
          "name": "TH-TRUE",
          "url": "pleQufywQamll32kGGuxBdHq05Lo6z170AnHlaBVKYpImw3KXWAuJrGBWFakbN5xXf4s64Q0n2zvDmwPqvqyKA"
       },
-
-{
+      {
          "name": "TH-AIS",
          "url": "ro+fkcOabfDZab/BOK2BN4zYpZHWM2mH9K7Nvh3w+whPhSJ8BOwEZYtPvd6+p0wki5iPqxJ72erVKJLJ"
       }
 
 
    ],
-"message":"🚀 Config version - 1 
-\n📆 Latest update - 08/10/2023
-ใส่ข้อความ",
-   "title":"Do you want to update?",
-   "version": 1
+"message":"📁 กำหนดค่าเวอร์ชัน - 2 
+\n•> 📆 Latest update - 08/10/2023
+\n•> True Dtac Ais",
+   "title":"คุณต้องการอัปเดตหรือไม่?",
+   "version": 2
 }
