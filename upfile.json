@@ -2,23 +2,25 @@
    "files": [  
 
      {
-         "name": "TH-DTAC",
-         "url": "4xb4T+99K72pS1qB2Icf6++5dyUT+GvmRqtwB1yl1KuBJgBs6M4sQ3y/tM9gwYNgvHeb3avPlJ4pHdHhim82oP7nRZN3qtK3Pqsj61wQAspVTqqT2j6KxpQ9+M0="
+         "name": "SG-DTAC",
+         "url": "hcUSipmDMXAZvfGwiRPj2OQ3yEmKtvnCwWFHCqgvSvEs+s2PV13seSyzhY46yDHurMLAzA=="
       },
       {
-         "name": "TH-TRUE",
-         "url": "RHlwpY5Mr76+icQPQqqqsETt447y4ItgBYWw2ZEjPIvK8GlUIhCfl9nGnjKqA+YFCiVzMVzj2askuNh5/PXHSa+0iRNdtpbRuj5mXGy+4GlObXX7+uB4ub7kmxY="
+         "name": "SG-TRUE",
+         "url": "Lfh3/7ZbWeFuE6AfH4ZRxGKJYt9dK1Xl+utwbVwzGeehFcHNYpJH4gbghDCuRn1IbAEtnA=="
       },
       {
-         "name": "TH-AIS",
-         "url": "HtnfjkjGR66Y+MTJRaQ/pl9HxWbfH5Y/wfM3dBRa/jJjsiwMSCL+qW68X6fwF3EfaBPwI/113JEFl3PQXUa+6Bq//iPG61W9JeJMPhzA568NL69pp0Q+mcGeqq4="
+         "name": "SG-AIS",
+         "url": "/6ACMU+Rcvy0ETjf3steBeqqHhOTK93gNv2JN7WcgHt7KBUUatwxKjK4SXLbOjlQ5mYHTg=="
       }
 
 
    ],
-"message":"📁 กำหนดค่าเวอร์ชัน - 2 
-\n•> 📆 Latest update - 08/10/2023
-\n•> True Dtac Ais",
+"message":"📁 ไฟล์อัปเดตเวอร์ชัน - 1 
+\n•> 📆 Latest update - 24/10/2023
+\n•> รองรับการใช้งาน True Dtac Ais
+\n•> SG ulta
+\n•> TH csne",
    "title":"คุณต้องการอัปเดตหรือไม่?",
-   "version": 3
+   "version": 1
 }
