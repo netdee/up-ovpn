@@ -1,16 +1,27 @@
 {
    "files": [  
-
+    {
+         "name": "TH-CSNE-DTAC-01",
+         "url": "Ru+FfFmhNGLprmDyU/+ofvA5QKZunW4j+J+IbeBmH+AiT5RLSndRIGDHi+NOoS4J0I6oew=="
+      },
      {
-         "name": "SG-DTAC",
+         "name": "TH-CSNE-TRUE-01",
+         "url": "R5t0VC60CeanWSEf0puYX/TsPMqtELXBTPvEgRUeuXPTsc7i/B8Hd3pOUlS8ZIJmI4bu2w=="
+      },  
+    {
+         "name": "TH-CSNE-AIS-01",
+         "url": "VUGzyxO6BDLeeKRMay/SsTjv0hQgDbytXxDAUzPPJjCZoceZUF1bJrQpSNy+UPE4slCf6A=="
+      },
+     {
+         "name": "SG-ULTA-DTAC-01",
          "url": "hcUSipmDMXAZvfGwiRPj2OQ3yEmKtvnCwWFHCqgvSvEs+s2PV13seSyzhY46yDHurMLAzA=="
       },
       {
-         "name": "SG-TRUE",
+         "name": "SG-ULTA-TRUE-01",
          "url": "Lfh3/7ZbWeFuE6AfH4ZRxGKJYt9dK1Xl+utwbVwzGeehFcHNYpJH4gbghDCuRn1IbAEtnA=="
       },
       {
-         "name": "SG-AIS",
+         "name": "SG-ULTA-AIS-01",
          "url": "/6ACMU+Rcvy0ETjf3steBeqqHhOTK93gNv2JN7WcgHt7KBUUatwxKjK4SXLbOjlQ5mYHTg=="
       }
 
@@ -19,8 +30,8 @@
 "message":"📁 ไฟล์อัปเดตเวอร์ชัน - 1 
 \n•> 📆 Latest update - 24/10/2023
 \n•> รองรับการใช้งาน True Dtac Ais
-\n•> SG ulta
-\n•> TH csne",
+\n•> SG ULTA (แนะนำลื่นๆเลย)
+\n•> TH CSNE (ใช้งานทั่วไป)",
    "title":"คุณต้องการอัปเดตหรือไม่?",
    "version": 1
 }
