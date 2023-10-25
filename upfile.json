@@ -1,5 +1,17 @@
 {
    "files": [  
+      {
+         "name": "TH-FAST-DTAC-01",
+         "url": "wBmL8oMsrfPSArm6H2zEtYJZp8YZuERU/vTWNKu5qaMfQSR8wPDn0il18vP3hFO0oCAzO5sWigo="
+      },
+     {
+         "name": "TH-FAST-TRUE-01",
+         "url": "xOPpP5EZR0Nn5/nBrtTofHHHqyLZa/XbA1ynxqAsWGiwK2SYSn/JZf/CK31E37zBizfuZsILVG4="
+      },  
+    {
+         "name": "TH-FAST-AIS-01",
+         "url": "+1mxoulm5r+nF72ubo4B2MxNuFZ0S3NYPQOcSUCcLCY5wh0ss3vfJWhdmA/MizXj2SJd3Xb7FVY="
+      },
     {
          "name": "TH-CSNE-DTAC-01",
          "url": "Ru+FfFmhNGLprmDyU/+ofvA5QKZunW4j+J+IbeBmH+AiT5RLSndRIGDHi+NOoS4J0I6oew=="
@@ -27,9 +39,12 @@
 
 
    ],
-"message":"📁 ไฟล์อัปเดตเวอร์ชัน - 1 
+"message":"📁 ไฟล์อัพเดตเวอร์ชัน - 1 
 \n•> 📆 Latest update - 24/10/2023
 \n•> รองรับการใช้งาน True Dtac Ais
+   
+\n•> อัพเดตเพิ่มเซิร์ฟเวอร์ใหม่
+\n•> TH FAST (จำกัด100คน)
    
 \n•> SG ULTA (แนะนำลื่นๆเลย)
 \n•> TH CSNE (ใช้งานทั่วไป)
