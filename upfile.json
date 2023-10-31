@@ -1,11 +1,11 @@
 {
    "files": [  
       {
-         "name": "TH-FAST-DTAC-01",
+         "name": "TH-FAST-DTAC-NOPRO-01",
          "url": "wBmL8oMsrfPSArm6H2zEtYJZp8YZuERU/vTWNKu5qaMfQSR8wPDn0il18vP3hFO0oCAzO5sWigo="
       },
      {
-         "name": "TH-FAST-TRUE-01",
+         "name": "TH-FAST-TRUE-SOCIAL-01",
          "url": "xOPpP5EZR0Nn5/nBrtTofHHHqyLZa/XbA1ynxqAsWGiwK2SYSn/JZf/CK31E37zBizfuZsILVG4="
       },  
     {
@@ -13,11 +13,11 @@
          "url": "+1mxoulm5r+nF72ubo4B2MxNuFZ0S3NYPQOcSUCcLCY5wh0ss3vfJWhdmA/MizXj2SJd3Xb7FVY="
       },
     {
-         "name": "TH-CSNE-DTAC-01",
+         "name": "TH-CSNE-DTAC-NOPRO-01",
          "url": "Ru+FfFmhNGLprmDyU/+ofvA5QKZunW4j+J+IbeBmH+AiT5RLSndRIGDHi+NOoS4J0I6oew=="
       },
      {
-         "name": "TH-CSNE-TRUE-01",
+         "name": "TH-CSNE-TRUE-SOCIAL-01",
          "url": "R5t0VC60CeanWSEf0puYX/TsPMqtELXBTPvEgRUeuXPTsc7i/B8Hd3pOUlS8ZIJmI4bu2w=="
       },  
     {
@@ -25,11 +25,11 @@
          "url": "VUGzyxO6BDLeeKRMay/SsTjv0hQgDbytXxDAUzPPJjCZoceZUF1bJrQpSNy+UPE4slCf6A=="
       },
            {
-         "name": "SG-ULTA-DTAC-01",
+         "name": "SG-ULTA-DTAC-NOPRO-01",
          "url": "hcUSipmDMXAZvfGwiRPj2OQ3yEmKtvnCwWFHCqgvSvEs+s2PV13seSyzhY46yDHurMLAzA=="
       },
       {
-         "name": "SG-ULTA-TRUE-01",
+         "name": "SG-ULTA-TRUE-SOCIAL-01",
          "url": "Lfh3/7ZbWeFuE6AfH4ZRxGKJYt9dK1Xl+utwbVwzGeehFcHNYpJH4gbghDCuRn1IbAEtnA=="
       },
       {
@@ -37,11 +37,11 @@
          "url": "/6ACMU+Rcvy0ETjf3steBeqqHhOTK93gNv2JN7WcgHt7KBUUatwxKjK4SXLbOjlQ5mYHTg=="
       },
      {
-         "name": "US-ULTA-DTAC-01-NEW",
+         "name": "US-ULTA-DTAC-NOPRO-01-NEW",
          "url": "55s8CojKMScs3dtiOy2zSOpfcgRsplS3PZf4aALZktJNIf8RaDgi8nr4Wga3CjNJYGmDdw=="
       },
       {
-         "name": "US-ULTA-TRUE-01-NEW",
+         "name": "US-ULTA-TRUE-SOCIAL-01-NEW",
          "url": "LPKFMC2ZCMbtCFd6HogU7sE/20OzzI0nwfqMCdMt3UbdNOs5eeVLsYFT1S7tSUezqfxevQ=="
       },
       {
@@ -52,12 +52,13 @@
 
    ],
 "message":"📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - 3
-\n•> 📆 Latest update - 30/10/2023
+\n•> 📆 Latest update - 31/10/2023
 \n•> รองรับการใช้งาน True Dtac Ais
    
 \n•> อัพเดตเพิ่มเซิร์ฟเวอร์ใหม่
+❌ตอนนี้ซิม True-Nopro เชื่อมต่อใช้งาน VPN ยังไม่ได้
+
 \n•> SG ULTA (Youtube1080p)
-   
 \n•> TH FAST (จำกัด100คน)
 \n•> SG ULTA (แนะนำลื่นๆเลย)
 \n•> TH CSNE (ใช้งานทั่วไป)
